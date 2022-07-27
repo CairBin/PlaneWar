@@ -1,0 +1,26 @@
+# 窗口参数
+WINDOW_TITLE = 'plane war'
+WINDOW_WIDTH = 800
+WINDOW_HEIGHT = 500
+
+BG_COLOR = 'white'
+
+# 方块尺寸 长/宽
+BLOCK_SIZE = 50
+
+# 飞机血量
+PLANE_HP = 3
+
+# 子弹参数
+BULLET_SPEED = 10
+BULLET_SIZE = (10, 10)
+BULLET_MOVE_LENGTH = -20
+BULLET_AGRES = 1
+
+# 敌人参数
+ENEMY_SPEEED = 5
+ENEMY_CREATE_TIME = 30
+
+# 血量大小
+HEART_SIZE = 30
+
